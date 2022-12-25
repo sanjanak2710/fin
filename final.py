@@ -25,7 +25,7 @@ def main():
     
     
     # giving a title
-    st.title('Presence Of Heart Disease Prediction Web App')
+    st.title('Presence Of Heart Disease Prediction')
     st.subheader('by Kuchipudi Sanjana ')
 
     st.sidebar.info("This web app is made as part of Presence Of Heart Disease Prediction Project")
